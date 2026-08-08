@@ -1,5 +1,5 @@
 # Ruined
-A GUI for Roblox - UI library made by [AlexR32](github.com/AlexR32)
+A GUI for Roblox - UI library made by [AlexR32](https://github.com/AlexR32)
 
 v0.1 Features:
 - Lighting options
