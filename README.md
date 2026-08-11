@@ -33,7 +33,7 @@ v0.2 update log:
 - Removed Fake Tab/Lag(R6)
 - Removed Fake Tab/Lag(R15)
 - Relocated Brightness
-- Fixed error: Tooltip is not a valid member of ScreenGui
+- Fixed error: Tooltip is not a valid member of ScreenGui "Bracket ..."
 
 v0.3 update log:
 - Added UNC Test
@@ -47,6 +47,9 @@ v0.3 update log:
 - Removed Force Full Health (client)
 - Removed Anchor Camera
 - Removed Time Accelerator
+- Fixed error: Title is not a valid member of Frame "ND"
+- Fixed error: Main is not a valid member of Frame "NL"
+- Fixed error: Tick is not a valid member of TextButton "Toggle"
 
 Winter Russian District:
 - Added Disable Map Barriers
