@@ -1,4 +1,4 @@
-# Ruined
+# Яuined
 A GUI for Roblox - UI library made by [AlexR32](https://github.com/AlexR32)
 
 v0.1 update log:
@@ -56,3 +56,24 @@ Winter Russian District:
 - Added Snowfall
 - Added Night
 - Added Blue Hour
+
+v0.4 update log:
+- Created Discord server
+- Changed the R in everything to Я(except variables)
+- Default values for Ambient and FogColor are now the values already set in game, as well as a few other toggles
+- Added Ambient
+- Added BreakJointsOnDeath
+- Added UseJumpPower
+- Added JumpHeight
+- Added OutdoorAmbient
+- Added executor detection
+- Added identifyexecutor()
+- Added ExposureCompensation
+- Added Stats Watermark
+- Added support for Legends Battlegrounds
+- Moved Camera section to left side instead of right
+- Removed keybinds(except UI bind)
+- Fixed error: Tick is not a valid member of TextButton "Toggle"
+
+Legends Battlegrounds:
+- Added Disable Map Barriers
