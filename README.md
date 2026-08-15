@@ -49,7 +49,6 @@ v0.3 update log:
 - Removed Time Accelerator
 - Fixed error: Title is not a valid member of Frame "ND"
 - Fixed error: Main is not a valid member of Frame "NL"
-- Fixed error: Tick is not a valid member of TextButton "Toggle"
 
 Winter Russian District:
 - Added Disable Map Barriers
