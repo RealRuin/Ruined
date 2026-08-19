@@ -1,6 +1,11 @@
 # Яuined
 A GUI for Roblox - UI library made by [AlexR32](https://github.com/AlexR32)
 
+Latest version:
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RealRuin/Ruined/refs/heads/main/Ruined.v0.4.lua"))()
+```
+
 v0.1 update log:
 - Added GlobalShadows
 - Added LightingStyle
