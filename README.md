@@ -1,6 +1,8 @@
 # Яuined
 A GUI for Roblox - UI library made by [AlexR32](https://github.com/AlexR32)
 
+Go buy an exec bromigo chip | [WhatExpsAre.Online](whatexpsare.online)
+
 Latest version:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RealRuin/Ruined/refs/heads/main/Ruined.v0.4.lua"))()
