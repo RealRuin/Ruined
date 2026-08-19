@@ -1,7 +1,7 @@
 # Яuined
 A GUI for Roblox - UI library made by [AlexR32](https://github.com/AlexR32)
 
-Go buy an exec bromigo chip | [WhatExpsAre.Online](whatexpsare.online)
+Go buy an exec bromigo chip | [WhatExpsAre.Online](https://whatexpsare.online)
 
 Latest version:
 ```
